@@ -1,9 +1,10 @@
-# dungeons and drag0ns
+# A travel application
 
 
-
+  ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
+  
   ## Description
-  sjlds
+  The application will enable users to find tourist attractions around the world
   
   ## Table of Contents
   * [Description](#description)
@@ -16,21 +17,21 @@
   
   
   ## Installation
-  oahdfl
+  No installation required, its a web app
 
   ## Usage:
-  aoh
+  usage informatio is found on website
 
   ## License
   MIT
 
   ## Contributing
-  aoh
+  use the github repo link for contributions
 
   ## Testing
-  we
+  as found on website
 
   ## Questions
-  visit [github/undefined](https:www.github.com/iyke) for source code
-  if you have additional questions, kindly email me at: rt@gmail.com 
+  visit [github/iy-ke](https:www.github.com/iy-ke) for source code
+  if you have additional questions, kindly email me at: unadikewilliam@gmail.com 
 
